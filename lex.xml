@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lex>
+    <stream>
+        <word raw="">
+            <code>3</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="aaa">
+            <code>ffffffff</code>
+            <pos>0</pos>
+        </word>
+        <word raw=",">
+            <code>1d</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="bbb">
+            <code>ffffffff</code>
+            <pos>1</pos>
+        </word>
+        <word raw=";">
+            <code>1e</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="">
+            <code>0</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="init">
+            <code>ffffffff</code>
+            <pos>2</pos>
+        </word>
+        <word raw="(">
+            <code>1b</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw=")">
+            <code>1c</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="{">
+            <code>1f</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="">
+            <code>1</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="ok">
+            <code>ffffffff</code>
+            <pos>3</pos>
+        </word>
+        <word raw=";">
+            <code>1e</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="ok">
+            <code>ffffffff</code>
+            <pos>3</pos>
+        </word>
+        <word raw="=">
+            <code>13</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="ok">
+            <code>ffffffff</code>
+            <pos>3</pos>
+        </word>
+        <word raw="+">
+            <code>17</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="1">
+            <code>fffffffe</code>
+            <pos>0</pos>
+        </word>
+        <word raw=";">
+            <code>1e</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="}">
+            <code>20</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="">
+            <code>1</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="main">
+            <code>ffffffff</code>
+            <pos>4</pos>
+        </word>
+        <word raw="(">
+            <code>1b</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw=")">
+            <code>1c</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="{">
+            <code>1f</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="bbb">
+            <code>ffffffff</code>
+            <pos>1</pos>
+        </word>
+        <word raw="=">
+            <code>13</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="bbb">
+            <code>ffffffff</code>
+            <pos>1</pos>
+        </word>
+        <word raw="+">
+            <code>17</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="123123">
+            <code>fffffffe</code>
+            <pos>1</pos>
+        </word>
+        <word raw="*">
+            <code>19</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="aaa">
+            <code>ffffffff</code>
+            <pos>0</pos>
+        </word>
+        <word raw=";">
+            <code>1e</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="aaa">
+            <code>ffffffff</code>
+            <pos>0</pos>
+        </word>
+        <word raw="+">
+            <code>17</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="cc">
+            <code>ffffffff</code>
+            <pos>5</pos>
+        </word>
+        <word raw=";">
+            <code>1e</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="return">
+            <code>ffffffff</code>
+            <pos>6</pos>
+        </word>
+        <word raw="0">
+            <code>fffffffe</code>
+            <pos>2</pos>
+        </word>
+        <word raw=";">
+            <code>1e</code>
+            <pos>ffffffff</pos>
+        </word>
+        <word raw="}">
+            <code>20</code>
+            <pos>ffffffff</pos>
+        </word>
+    </stream>
+    <symbols>
+        <symbol>aaa</symbol>
+        <symbol>bbb</symbol>
+        <symbol>init</symbol>
+        <symbol>ok</symbol>
+        <symbol>main</symbol>
+        <symbol>cc</symbol>
+        <symbol>return</symbol>
+    </symbols>
+    <constants>
+        <constant>1</constant>
+        <constant>123123</constant>
+        <constant>0</constant>
+    </constants>
+</lex>
