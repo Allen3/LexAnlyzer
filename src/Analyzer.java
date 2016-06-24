@@ -1,5 +1,3 @@
-package Core;
-
 import org.w3c.dom.Attr;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -399,7 +397,7 @@ public class Analyzer {
 
     public static void main(String args[]) {
         Analyzer analyzer = new Analyzer();
-        analyzer.readFile("input.cpp");
+        analyzer.readFile(args[0]);
         analyzer.execute().generateXML();
     }
 
